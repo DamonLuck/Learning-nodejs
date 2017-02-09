@@ -5,7 +5,7 @@ const app = express();
 
 app.get('/', (request, response) => {
   response.send('Hello from Express!');
-})
+});
 
 app.listen(options.port, options.ip, (err) => {
   if (err) {
@@ -13,4 +13,4 @@ app.listen(options.port, options.ip, (err) => {
   }
 
   console.log(`server is listening on ${options.port}`);
-})
+});
