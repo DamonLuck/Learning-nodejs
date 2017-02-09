@@ -1,0 +1,26 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonLuck/Learning-nodejs.git"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "Damon Luck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonLuck/Learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/DamonLuck/Learning-nodejs#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
