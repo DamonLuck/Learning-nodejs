@@ -4,6 +4,7 @@
 /*global beforeEach:false */
 /*global describe:false */
 /*global it:false */
+/*global expect:false */
 
 'use strict';
 
