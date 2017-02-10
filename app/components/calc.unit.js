@@ -1,3 +1,12 @@
+"globals"   : {
+    /* MOCHA */
+    "after"      : false,
+    "afterEach"  : false,
+    "before"     : false,
+    "beforeEach" : false,
+    "describe"   : false,
+    "it"         : false
+}
 'use strict';
 
 const Calc = require('./calc');
